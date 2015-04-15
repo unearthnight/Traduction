@@ -1,8 +1,0 @@
-Love=aimer
-I=je
-China=chine
-The=La 
-apple=pomme 
-is=est 
-on=sur 
-table=table
